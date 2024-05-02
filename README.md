@@ -22,3 +22,15 @@
 -----
 {}
 ```
+
+### 论文阅读归纳
+```
+归纳下面内容的核心观点，以checklist的格式，满足条件：
+1. 保留在github上的开源地址，
+2. 用中文提供核心观点、算法优势、未来研究方向描述，
+-----
+{}
+```
+
+### 在web端网页版直接用
+ - https://console.cloud.google.com/vertex-ai/generative/language/create/text?project=fit-boulevard-385815
